@@ -5,7 +5,6 @@ SalmonttApp es una aplicación Java desarrollada para la empresa salmonera Salmo
 
 ## Estructura del Proyecto (Paquetes y clases)
 
-    SalmonttApp/
     ├── src/
     │   ├── model/
     │   │   └── CentroCultivo.java
