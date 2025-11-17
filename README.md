@@ -18,9 +18,9 @@ SalmonttApp es una aplicación Java desarrollada para la empresa salmonera Salmo
 ## Funcionalidades Implementadas   
 
 1. Estructura de paquetes - Organización modular del proyecto
-2. Clase modelo - CentroCultivo con atributos y métodos necesarios
-3. Archivo de datos - Formato correcto con separadores punto y coma
-4. Gestor de datos - Lectura, parsing y creación de objetos
+2. Clase modelo - CentroCultivo con atributos y métodos getter y setters, toString
+3. Archivo de datos - separadores punto y coma
+4. Gestor de datos - Lectura y gestión de errores en datos
 5. Operaciones en Main:
    - Recorrido completo de la colección
    - Filtrado por condición específica (comuna)
