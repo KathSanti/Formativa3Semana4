@@ -27,7 +27,7 @@ SalmonttApp es una aplicación Java desarrollada para la empresa salmonera Salmo
    - Visualización de resultados
 
 
-##  Aprendizajes Desarrollados
+## Aprendizajes Aprendizajes Desarrollados
 - Manipulación de colecciones dinámicas en Java
 - Vinculación entre archivos externos y objetos
 - Aplicación de operaciones CRUD básicas sobre colecciones
