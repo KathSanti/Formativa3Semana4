@@ -1,0 +1,10 @@
+Corazón Azul;Calbuco;185
+Fiordo Austral;Puerto Montt;420
+Estrella del Sur;Chiloé;310
+Mares de Hualaihué;Hualaihué;245
+Bahía Eterna;Quellón;290
+Costa Brava;Ancud;265
+Glaciares de Aysén;Aysén;205
+Dorada del Pacífico;Coquimbo;110
+Lagos Andinos;Los Lagos;455
+Canal del Viento;Valparaíso;175
