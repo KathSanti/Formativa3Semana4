@@ -5,18 +5,18 @@ SalmonttApp es una aplicación Java desarrollada para la empresa salmonera Salmo
 
 ## Estructura del Proyecto (Paquetes y clases)
 
-└─ SalmonttListas.xlsx    `com.Salmontt/
-    ├── ui/
-    │   └── Main.java          # Punto de entrada y menú principal
-    ├── data/
-    │   └── GestorDatos.java   # Gestión de datos y operaciones
-    └── model/
-    |    ├── DatosFicha.java    # Clase base abstracta
-    |   ├── Trabajador.java    # Entidad Trabajador
-    |    ├── Proveedor.java     # Entidad Proveedor
-    |    └── Cliente.java       # Entidad Cliente
-    ├── resuorces
-        └─ SalmonttListas.xlsx
+    └─ SalmonttListas.xlsx    `com.Salmontt/
+        ├── ui/
+        │   └── Main.java          # Punto de entrada y menú principal
+        ├── data/
+        │   └── GestorDatos.java   # Gestión de datos y operaciones
+        └── model/
+        |    ├── DatosFicha.java    # Clase base abstracta
+        |   ├── Trabajador.java    # Entidad Trabajador
+        |    ├── Proveedor.java     # Entidad Proveedor
+        |    └── Cliente.java       # Entidad Cliente
+        ├── resuorces
+            └─ SalmonttListas.xlsx
 
 # DistribuciónArchivo XLXS
 
