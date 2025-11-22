@@ -78,4 +78,6 @@ para accder a las opciones debe escribir en su teclado los número entre el 1 - 
 | Encapsulamiento  | Atributos privados + getters/setters  |
 | Abstracción  | Clase abstracta con método abstracto  |
 | Colecciones  | ArrayList<T> con generics  |
-| Manejo de Excepciones  | Try-catch en carga de datos  |
+| Manejo de Excepciones  | Try-catch en carga de datos  |   |
+
+
