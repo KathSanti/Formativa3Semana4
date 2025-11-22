@@ -18,6 +18,19 @@ Sistema de gestión administrativa desarrollado en Java para la empresa Salmontt
         ├── resuorces
             └─ SalmonttListas.xlsx
 
+# Instrucciones para Ejecutar el Programa
+
+- Java JDK 8 o superior
+- Archivo SalmonttListas.xlsx en el directorio del proyecto
+  
+1. Compilar el proyecto:
+   
+       `javac -cp ".:lib/*" com/Salmontt/ui/Main.java`
+
+2. Ejecutar la aplicación:
+
+        java -cp ".:lib/*" com.Salmontt.ui.Main
+
 # Navegación en el Sistema
 
     =========================================
@@ -31,7 +44,7 @@ Sistema de gestión administrativa desarrollado en Java para la empresa Salmontt
     3. Clientes
     Opción: 
 
-para accder a las opciones debe escribir en su teclado los número entre el 1 - 3 y paara salir del sistema confirmar con los caracteres S/N
+para accder a las opciones debe escribir en su teclado los número entre el 1 - 3 y paara salir o volver en el sistema por favor confirme con los caracteres S/N
 
 # Fuente de Datos
 
