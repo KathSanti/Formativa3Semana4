@@ -69,6 +69,8 @@ para accder a las opciones debe escribir en su teclado los número entre el 1 - 
 - Filtrado Avanzado: Búsquedas por RUT, Centro de Costo, Sucursal
 - Recorrido Completo: Listado de todos los registros disponibles
 
+# RESUMEN DE CONCEPTOS POO APLICADOS
+
 |  Concepto | Implementación en el Código  |
 | ------------ | ------------ |
 | Herencia  | DatosFicha → Trabajador, Proveedor, Cliente  |
@@ -78,16 +80,5 @@ para accder a las opciones debe escribir en su teclado los número entre el 1 - 
 | Colecciones  | ArrayList<T> con generics  |
 | Manejo de Excepciones  | Try-catch en carga de datos  |
 
-
-# RESUMEN DE CONCEPTOS POO APLICADOS
-
-| Concepto  |  Implementación en el Código |
-| ------------ | ------------ | ------------ |
-| Herencia  | DatosFicha → Trabajador, Proveedor, Cliente  |
-| Polimorfismo  | procesarInformacionFicha() con diferentes implementaciones  |
-| Encapsulamiento  | Atributos privados + getters/setters  |
-| Abstracción  | Clase abstracta con método abstracto  |
-| Colecciones  | ArrayList<T> con generics  |
-| Manejo de Excepciones  | Try-catch en carga de datos  |   |
 
 
